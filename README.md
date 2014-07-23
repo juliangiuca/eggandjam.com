@@ -17,5 +17,11 @@ To run the site:
 TARGET_URL=http://127.0.0.1:5000 node app.js
 ```
 
+
+## Notes
+Q) Why not put this site on S3 instead of Heroku? It'd save you the keep alive code?  
+A) Because sometimes it's fun to write code.
+
+
 ## License
 MIT License.
